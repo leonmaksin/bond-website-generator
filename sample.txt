@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="SemiColonWeb" />
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png">
+
+    <!-- Stylesheets
+    ============================================= -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <link rel="stylesheet" href="css/dark.css" type="text/css" />
+    <link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+
+    <link rel="stylesheet" href="css/responsive.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Document Title
+    ============================================= -->
+    <title>Team | BOND Consulting</title>
+
+</head>
+
+<body class="stretched">
+
+    <!-- Document Wrapper
+    ============================================= -->
+    <div id="wrapper" class="clearfix">
+
+        <!-- Header
+         ============================================= -->
+        <header id="header" class="dark" data-sticky-class="not-dark">
+
+            <div id="header-wrap">
+
+                <div style="padding: 0 40px">
+
+                    <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+                    <!-- Logo
+                     ============================================= -->
+                    <div id="logo">
+                        <a href="index.html" class="standard-logo" data-dark-logo="images/BONDLogo.png"><img src="images/BONDLogo.png" alt="Canvas Logo"></a>
+                        <a href="index.html" class="retina-logo" data-dark-logo="images/BONDLogo.png"><img src="images/BONDLogo.png" alt="Canvas Logo"></a>
+                    </div><!-- #logo end -->
+
+                    <!-- Primary Navigation
+                     ============================================= -->
+                    <nav id="primary-menu">
+                        <nav id="primary-menu">
+                            <ul>
+                                <li><a href="index.html"><div>Home</div></a> </li>
+                                <li><a href="Our-Impact.html"><div>Clients</div></a>
+                                    <ul>
+                                        <li><a href="Our-Impact.html"><div><i class="icon-city"></i>Our Impact</div></a></li>
+                                        <li><a href="client.html"><div><i class="icon-chart-line"></i>Client Services</div></a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="team.html"><div>Our Team</div></a>
+                                <ul>
+                                        <li><a href="team.html"><div><i class="icon-group"></i>Our Members</div></a></li>
+                                        <li><a href="BONDBlurbs.html"><div><i class="icon-book"></i>BOND Blurbs</div></a></li>
+                                        <li><a href="BONDW2.html"><div><i class="icon-comments2"></i>BONDw</div></a></li>
+                                    </ul>
+                                </li>
+
+                                <li><a href="Alumni.html"><div>Alumni</div></a> </li>
+                                <li><a href="Prospective-Members.html"><div>Prospective Members</div></a>
+                                    <ul>
+                                        <li><a href="Prospective-Members.html"><div><i class="icon-chalkboard-teacher"></i>Prospective Members</div></a></li>
+                                        <li><a href="President-Welcome.html"><div><i class="icon-user-friends"></i>President's Welcome</div></a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav><!-- #primary-menu end -->
+
+                </div>
+
+            </div>
+
+        </header><!-- #header end -->
+
+        <!-- Page Title
+        ============================================= -->
+        <section id="page-title">
+
+            <div class="container clearfix">
+                <h1>Our Team</h1>
+                <span>All the people to BOND with...</span>
+            </div>
+
+        </section><!-- #page-title end -->
+
+        <!-- Content ALL PHOTOS ARE CALLED name21.jpg ALL LOWERCASE
+        ============================================= -->
+        <section id="content">
+
+            <div class="content-wrap" style="padding-bottom: 0px !important;">
+
+                <div class="container clearfix">
+
+                    <div class="clear"></div>
+
+                    <div class="row" style="margin-top: 60px;">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/allisonf22.jpeg" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Allison Kolpak</h4><span>President</span></div><br>
+                                    <a href="https://www.linkedin.com/in/allison-kolpak-80b954191/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Xander21.JPG" alt="Xander Yanni">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Xander Yanni</h4><span>Vice President of Client Management</span></div><br>
+                                    <a href="https://www.linkedin.com/in/xander-yanni/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Marissa21.JPG" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Marissa Garrido</h4><span>Vice President of Recruiting</span></div><br>
+                                    <a href="https://www.linkedin.com/in/marissa-garrido/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Aryan21.jpeg" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Aryan Sharma</h4><span>Vice President of Internal Development</span></div><br>
+                                    <a href="https://www.linkedin.com/in/aryansharma-umich/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                   <img src="images/tatumf22.JPG" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Tatum Kreindler</h4><span>Development Leader</span></div>
+                                    <a href="https://www.linkedin.com/in/tatum-kreindler-440b81196/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/cameronf22.JPG" alt="Nix Maxwell">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Cameron King</h4><span>DEI Chair</span></div>
+                                    <a href="https://www.linkedin.com/in/cameron-king-172a8121b/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                                                           <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/ekamf22.JPG" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Ekam Motwani</h4><span>DEI Chair</span></div>
+                                    <a href="https://www.linkedin.com/in/ekammotwani/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+			 <img src="images/ronitf22.JPG" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Ronit Gagneja</h4><span>Project Manager</span></div>
+                                    <a href="https://www.linkedin.com/in/ronit-g/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        </div>
+                        <div class="row">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Rishabh21.JPG" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Rishabh Ranjan</h4><span>Project Manager</span></div>
+                                    <a href="https://www.linkedin.com/in/rishabh-ranjan-1113841b6/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/katief22.JPG" alt="Nix Maxwell">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Katie Arendt</h4><span>Project Manager</span></div>
+                                    <a href="https://www.linkedin.com/in/katie-arendt/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/audreyf22.JPG" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Audrey Thedford</h4><span>Project Manager</span></div>
+                                    <a href="https://www.linkedin.com/in/audrey-thedford-5b769718a/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/parkerf22.JPG" alt="Nix Maxwell">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Parker Battin</h4><span>Project Manager</span></div>
+                                    <a href="https://www.linkedin.com/in/parker-battin-0a837a210/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        </div>
+                        <div class="row">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/nameer.jpeg" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Nameer Hirschkind</h4><span>Project Manager</span></div>
+                                    <a href="https://www.linkedin.com/in/nameer-hirschkind/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                <img src="images/elanf22.JPG" alt="Josh Clark">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Elan Rosen</h4><span>Project Manager</span></div>
+                                    <a href="https://www.linkedin.com/in/elanrosen/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                    <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/aimeef22.JPG" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Aimee Zheng</h4><span>Project Manager</span></div>
+                                    <a href="https://www.linkedin.com/in/aimee-zheng-66b873180/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/vasudhaf22.JPG" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Vasudha Patil</h4><span>Consultant</span></div>
+                                    <a href="https://www.linkedin.com/in/vaspatil/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        </div>
+                        <div class="row">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/kripaf22.JPG" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Kripa Srinivasan</h4><span>Consultant</span></div>
+                                    <a href="https://www.linkedin.com/in/kripa-srinivasan/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+                        <div class="team">
+                                <div class="team-image">
+                                    <img src="images/shravif22.JPG" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Shravi Kothari</h4><span>Consultant</span></div>
+                                    <a href="https://www.linkedin.com/in/shravi-kothari/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/stephanief22.JPG" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Stephanie Zhang</h4><span>Consultant</span></div>
+                                    <a href="https://www.linkedin.com/in/stephanie-zhang-8636321a9/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/isaacf22.JPG" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Isaac Lightman</h4><span>Consultant</span></div>
+                                    <a href="https://www.linkedin.com/in/isaac-lightman/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        </div>
+                        <div class="row">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/connorf22.JPG" alt="Nix Maxwell">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Connor Loughlin</h4><span>Consultant</span></div>
+                                    <a href="https://www.linkedin.com/in/connor-loughlin/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    <div class="col-lg-3 col-md-6 bottommargin">
+                    <div class="team">
+                            <div class="team-image">
+                                <img src="images/AnnZhang.jpeg" alt="Nix Maxwell">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4>Ann Zhang</h4><span>Consultant</span></div>
+                                <a href="https://www.linkedin.com/in/ann-z-87abb021b/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                    <i class="icon-linkedin"></i>
+                                    <i class="icon-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 bottommargin">
+
+                        <div class="team">
+                            <div class="team-image">
+                                <img src="images/NateKovacs.jpeg" alt="Nix Maxwell">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4>Nathan Kovacs</h4><span>Consultant</span></div>
+                                <a href="https://www.linkedin.com/in/nathan-kovacs-644438222/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                    <i class="icon-linkedin"></i>
+                                    <i class="icon-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 bottommargin">
+
+                        <div class="team">
+                            <div class="team-image">
+                                <img src="images/dylanf22.JPG" alt="Nix Maxwell">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4>Dylan Kapur</h4><span>Consultant</span></div>
+                                <a href="https://www.linkedin.com/in/dylan-kapur/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                    <i class="icon-linkedin"></i>
+                                    <i class="icon-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="row">
+
+                    <div class="col-lg-3 col-md-6 bottommargin">
+
+                        <div class="team">
+                            <div class="team-image">
+                                <img src="images/anjalif22.JPG" alt="Nix Maxwell">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4>Anjali Tandon</h4><span>Consultant</span></div>
+                                <a href="https://www.linkedin.com/in/anjalit/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                    <i class="icon-linkedin"></i>
+                                    <i class="icon-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/kathleenf22.JPG" alt="Josh Clark">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Kathleen Lukyto</h4><span>Consultant</span></div>
+                                    <a href="https://www.linkedin.com/in/kathleenlukyto/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/tarikf22.JPG" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Tarik Hababi</h4><span>Consultant</span></div>
+                                    <a href="https://www.linkedin.com/in/tarikhababi/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/evanf22.JPG" alt="Josh Clark">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Evan Wu</h4><span>Consultant</span></div>
+                                    <a href="https://www.linkedin.com/in/evan-wu1218/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                        <div class="row">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/sophief22.JPG" alt="Josh Clark">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Sophie Mohindra-Green</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/sophie-mg/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                        <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Sid21.JPG" alt="Nix Maxwell">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Siddarth Kaul</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/kaul-siddharth/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 bottommargin">
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Julia_Headshot.JPG" alt="Josh Clark">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Julia Averbuch</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/juliaaverbuch/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                       <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Shubh21.JPG" alt="Mary Jane">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Shubh Bhargava</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/shubh-bhargava/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        </div>
+                        <div class="row">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/leonf22.JPG" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Leon Maksin</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/leonmaksin/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+<div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/IlanF20.jpg" alt="Ilan Sidi">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Ilan Sidi</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/ilan-s-969770111/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Jacob21.jpeg" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Jacob Bayer</h4><span> Advisor </span></div>
+                                    <a href="https://www.linkedin.com/in/jacob-bayer-570b791b8/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Rhea21.JPG" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Rhea Bhakhri</h4><span> Advisor </span></div>
+                                    <a href="https://www.linkedin.com/in/rhea-bhakhri-90b98319a/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+                        <div class="row">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/luke2.jpg" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Luke Cerone</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/luke-cerone-20b707198/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+			                        <img src="images/Clara21.jpg" alt="Mary Jane">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Clara Shen</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/clara-s-a9aa78121" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+<div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/drew.jpeg" alt="John Doe">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Noam Drews</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/noam-drews/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Zuck21.JPG" alt="Josh Clark">
+                                </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Michael Zuckerman</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/michael-zuckerman/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                            
+                     <div class="row">
+
+                        <div class="col-lg-3 col-md-6 bottommargin">
+
+                            <div class="team">
+                                <div class="team-image">
+                                    <img src="images/Rohan21.JPG" alt="Josh Clark">
+                                        </div>
+                                <div class="team-desc">
+                                    <div class="team-title"><h4>Rohan Gupta</h4><span>Advisor</span></div>
+                                    <a href="https://www.linkedin.com/in/gupta-rohan/" class="social-icon si-colored si-linkedin" title="LinkedIn">
+                                        <i class="icon-linkedin"></i>
+                                        <i class="icon-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+           
+
+                        </div>
+
+
+                           
+            </div>
+
+
+        </section><!-- #content end -->
+
+        <!-- Footer
+         ============================================= -->
+        <footer id="footer" class="dark">
+
+            <div class="container">
+
+            </div>
+
+            <!-- Copyrights
+             ============================================= -->
+            <div id="copyrights">
+
+                <div class="container clearfix">
+
+                    <div class="col_half">
+                        Copyrights &copy; 2019 All Rights Reserved by BOND Consulting Group<br>
+                        <div class="copyright-links">Ross School of Business: 701 Tappan Ave, Ann Arbor, MI 48109</div>
+
+                    </div>
+
+                    <div class="col_half col_last tright">
+
+                        <div class="copyrights-menu copyright-links fright clearfix">
+                            <a href="index.html">Home</a>/<a href="client.html">Clients</a>/<a href="team.html">Our Team</a>/<a href="Alumni.html">Alumni</a>/<a href="Prospective-Members.html">Prospective Members</a>
+                        </div>
+
+                        <div class="clear"></div>
+
+                        <i class="icon-envelope2"></i> bondexecutives@umich.edu
+                        <div class="clear"></div>
+
+                        <div class="fright clearfix">
+
+                            <a href="https://instagram.com/bond_umich?igshid=17lrlt83e62xj" class="social-icon si-small si-borderless si-instagram">
+                                <i class="icon-instagram"></i>
+                                <i class="icon-instagram"></i>
+                            </a>
+                            <a href="https://www.linkedin.com/company/bondconsultinggroup" class="social-icon si-small si-borderless si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                            <a href="https://m.facebook.com/BONDConsultingUMICH/" class="social-icon si-small si-borderless si-facebook">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div><!-- #copyrights end -->
+
+        </footer><!-- #footer end -->
+
+    </div><!-- #wrapper end -->
+
+    <!-- Go To Top
+    ============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
+
+    <!-- External JavaScripts
+    ============================================= -->
+    <script src="js/jquery.js"></script>
+    <script src="js/plugins.js"></script>
+
+    <!-- Footer Scripts
+    ============================================= -->
+    <script src="js/functions.js"></script>
+
+</body>
+</html>
+<script type='text/javascript'>
+window.__lo_site_id = 187730;
+
+    (function() {
+        var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+        wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+      })();
+    </script>
